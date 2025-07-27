@@ -1,2 +1,3 @@
-# Juice-WRLD-Life-s-Journey
-ChatGPT said: Juice WRLD: Life's Journey is a pixel-style runner inspired by Goodbye &amp; Good Riddance. Play as Juice, dodge pills, collect lifelines, and run to “End of the Road” in the background. A tribute to his pain and legacy.  Disclaimer: I don’t own any music or character rights.
+Juice WRLD: Life's Journey is a pixel-style, side-scrolling runner inspired by the classic Chrome Dino game — but with a raw, emotional twist. Step into the shoes of Juice WRLD as he dodges pills, collects lifelines, and runs through a dark, symbolic world themed around his iconic Goodbye & Good Riddance era. With “End of the Road” playing in the background, the game captures the essence of Juice’s struggle, pain, and poetry — every jump a cry for help, every lifeline a flicker of hope.
+
+⚠️ Disclaimer: I do not own the rights to any music or character used in this game. All rights belong to their respective owners. This is a fan-made tribute made with love and respect for Juice WRLD and his legacy.
